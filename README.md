@@ -1,0 +1,2 @@
+# Student-Performance-Analysis-using-Excel-Data-Driven-Insights-for-Education
+Educational institutions often struggle to identify which factors—academic, behavioral, or environmental—have the greatest impact on student performance. Using the StudentPerformanceFactors dataset, this analysis aims to uncover key drivers of exam scores and provide actionable recommendations to improve student outcomes.
